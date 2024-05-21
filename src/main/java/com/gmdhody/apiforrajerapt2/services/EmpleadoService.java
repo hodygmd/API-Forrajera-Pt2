@@ -1,9 +1,10 @@
-package com.example.apiforrajera.services;
+package com.gmdhody.apiforrajerapt2.services;
 
-import com.example.apiforrajera.dto.EmpleadoDto;
-import com.example.apiforrajera.entities.Empleado;
-import com.example.apiforrajera.repositories.EmpleadoRepository;
-import com.example.apiforrajera.repositories.PuestoRepository;
+
+import com.gmdhody.apiforrajerapt2.dto.EmpleadoDto;
+import com.gmdhody.apiforrajerapt2.entities.Empleado;
+import com.gmdhody.apiforrajerapt2.repositories.EmpleadoRepository;
+import com.gmdhody.apiforrajerapt2.repositories.PuestoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;

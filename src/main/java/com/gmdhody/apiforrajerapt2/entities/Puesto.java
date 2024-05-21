@@ -1,4 +1,4 @@
-package com.example.apiforrajera.entities;
+package com.gmdhody.apiforrajerapt2.entities;
 
 import jakarta.persistence.*;
 import lombok.Getter;

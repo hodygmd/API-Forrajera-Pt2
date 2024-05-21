@@ -1,4 +1,4 @@
-package com.example.apiforrajera.dto;
+package com.gmdhody.apiforrajerapt2.dto;
 
 import lombok.Data;
 
